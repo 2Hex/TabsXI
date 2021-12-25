@@ -1,0 +1,6 @@
+name: TabsXI
+version: '${project.version}'
+main: me.hex.tabsxi.TabsXI
+authors: [2Hex]
+description: Tabs Like Never Made Before!
+

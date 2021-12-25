@@ -1,0 +1,7 @@
+perms:
+  - "nte.owner"
+  - "AdminPerm"
+  - "ModPerm"
+  - "MVPPerm"
+colors:
+  - "&4" # this is "nte.owner" color!
